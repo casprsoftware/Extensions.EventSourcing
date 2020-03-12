@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>CASPR.Extensions.EventSourcing.Abstractions</AssemblyName>
+    <RootNamespace>CASPR.Extensions.EventSourcing</RootNamespace>
+    <Authors>CASPR Software</Authors>
+    <Description>Event sourcing. Interfaces and base (null) implementations.</Description>
+    <Version>1.0.0-beta1</Version>
+    <PackageId>$(AssemblyName)</PackageId>
+    <PackageTags>event sourcing, aggregate, event store</PackageTags>
+    <RepositoryUrl>https://github.com/casprsoftware/Extensions.EventSourcing</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>© CASPR Software. All rights reserved.</Copyright>
+  </PropertyGroup>
+
+</Project>
